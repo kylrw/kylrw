@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**kylrw/kylrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import Vue from "vue";
+import App from "./App.vue";
+import TypeIt from "typeit";
 
-Here are some ideas to get you started:
+Vue.config.productionTip = false;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+new Vue({
+  render: h => h(App)
+}).$mount("#app");
+
+new TypeIt("#inner-demo-2", {
+  speed: 100,
+  lifelike: true,
+  cursor: true,
+  cursorSpeed: 300,
+  loop: true
+})
+  .pause(1000)
+  .type('<span style="font-family: Segoe UI Emoji">👋</span>', {
+    html: true
+  })
+  .type("&nbspHi&nbspthere!&nbspI'm&nbspRaymo111")
+  .pause(750)
+  .delete(3, { deleteSpeed: 130 })
+  .pause(500)
+  .type("nd&nbspLi")
+  .pause(500)
+  .move(-10)
+  .type("https://")
+  .move(8)
+  .delete(1)
+  .type(".")
+  .move("END")
+  .pause(1000)
+  .go();
+
