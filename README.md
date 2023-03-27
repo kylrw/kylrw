@@ -26,7 +26,8 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 
 ---
 
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/kylrw/github-readme-stats)
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=radical)]
+(https://github.com/kylrw/github-readme-stats)
 
 <!-- Feel free to remove the stats section if you don't want to display it -->
 
