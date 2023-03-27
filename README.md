@@ -8,8 +8,8 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 
 ## Connect with me:
 
-[<img align="left" alt="Your LinkedIn" width="22px" src="https://www.linkedin.com/in/kyler-witvoet/" />][linkedin]
-[<img align="left" alt="Your Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -31,6 +31,6 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 <!-- Feel free to remove the stats section if you don't want to display it -->
 
 [website]: https://your-website.com
-[linkedin]: https://www.linkedin.com/in/your-linkedin-username/
+[linkedin]: https://www.linkedin.com/in/kyler-witvoet/
 [twitter]: https://twitter.com/your-twitter-username
-[instagram]: https://instagram.com/your-instagram-username
+[instagram]: https://www.instagram.com/kylrw_/
