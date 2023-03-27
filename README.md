@@ -16,21 +16,12 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 ## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/C.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/C++.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 
 <!-- Add or remove languages and tools as needed -->
-
-<p align="center">
-  <a href="https://github.com/kylrw/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/kylrw/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylrw&layout=compact&theme=radical" />
-  </a>
-</p>
 
 ---
 
