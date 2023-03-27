@@ -1,41 +1,30 @@
-# Hi there! I'm Kyler 👋
+<h1 align="center">Hi 👋, I'm Kyler</h1>
+<h3 align="center">I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/kylrw?style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kylrw&label=Profile%20views&color=0e75b6&style=flat" alt="kylrw" /> </p>
 
-I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw" alt="kylrw" /></a> </p>
 
-- 🔭 I’m currently working as a Research Assistant at McMaster Automotive Resource Center!
-- 🌱 I’m currently learning Machine Learning & Deep Learning
-- 🤔 I’m looking for help with Machine Learning & Deep Learning best practices
+- 🔭 I’m currently working on **McMaster Automotive Resource Center**
 
-## Connect with me:
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🤝 I’m looking for help with **Machine Learning & Deep Learning best practices**
 
-<br />
+- 📫 How to reach me **kwitvoet03@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kyler-witvoet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyler-witvoet" height="30" width="40" /></a>
+<a href="https://instagram.com/kylrw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylrw_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kylerwitvoet6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kylerwitvoet6228" height="30" width="40" /></a>
+</p>
 
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylrw&show_icons=true&locale=en&layout=compact" alt="kylrw" /></p>
 
-<!-- Add or remove languages and tools as needed -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&locale=en" alt="kylrw" /></p>
 
----
-
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=radical)](https://github.com/kylrw/github-readme-stats)
-
-<!-- Feel free to remove the stats section if you don't want to display it -->
-
-[website]: https://your-website.com
-[linkedin]: https://www.linkedin.com/in/kyler-witvoet/
-[twitter]: https://twitter.com/your-twitter-username
-[instagram]: https://www.instagram.com/kylrw_/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylrw&" alt="kylrw" /></p>
