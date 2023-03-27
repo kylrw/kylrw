@@ -21,6 +21,8 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code>
 
 <!-- Add or remove languages and tools as needed -->
 
