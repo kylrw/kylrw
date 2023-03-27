@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kyler</h1>
 <h3 align="center">I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kylrw&label=Profile%20views&color=0e75b6&style=flat" alt="kylrw" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kylrw&label=Profile%20views&color=0e75b6&style=flat" alt="kylrw" />
+  <img src="https://img.shields.io/github/followers/kylrw?style=social" alt="followers" />
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw" alt="kylrw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw&no-bg=true&no-frame=true&column=7&exclude=stars" alt="kylrw" /></a> </p>
 
 - 🔭 I’m currently working at **McMaster Automotive Resource Center**
 
