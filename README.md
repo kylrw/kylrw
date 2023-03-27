@@ -1,5 +1,7 @@
 # Hi there! I'm Kyler 👋
 
+![GitHub followers](https://img.shields.io/github/followers/kylrw?style=social)
+
 I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 
 - 🔭 I’m currently working as a Research Assistant at McMaster Automotive Resource Center!
@@ -12,6 +14,7 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 [<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+![Animated GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ## Languages and Tools:
 
