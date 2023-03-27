@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw" alt="kylrw" /></a> </p>
 
-- 🔭 I’m currently working on **McMaster Automotive Resource Center**
+- 🔭 I’m currently working at **McMaster Automotive Resource Center**
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
