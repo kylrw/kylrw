@@ -16,8 +16,8 @@ I'm a Student/Engineer/Designer passionate about AI,Space&Robotics!
 ## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 
