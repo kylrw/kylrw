@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 🤝 I’m looking for help with **Machine Learning & Deep Learning best practices**
-
 - 📫 How to reach me **kwitvoet03@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
