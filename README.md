@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kyler</h1>
-<h3 align="center">I'm a Student/Engineer/Designer passionate about Space, AI & Robotics!</h3>
+<h3 align="center">Hello there! I'm Kyler, a Computer Engineering student at McMaster University 🖥️ with a profound interest in AI, Robotics, Space and Climate Change.
+
+My fascination for technology drives my quest to overcome new challenges and continuously learn new technologies 🧠.
+
+When I'm not diving into exciting new projects, you might find me skiing down snow-laden slopes, navigating mountain bike trails, exploring local urban landscapes, or enthralled in sci-fi and fantasy literature.
+
+Looking forward to collaborating, learning, and creating incremental change through innovation 🚀.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kylrw&label=Profile%20views&color=0e75b6&style=flat" alt="kylrw" />
