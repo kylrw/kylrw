@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyler</h1>
-<h3 align="center">Hello there! I'm Kyler, a Computer Engineering student at McMaster University 🖥️ with a profound interest in AI, Robotics, Space and Climate Change.
+<h3 align="left">Hello there! I'm Kyler, a Computer Engineering student at McMaster University 🖥️ with a profound interest in AI, Robotics, Space and Climate Change.
 
 My fascination for technology drives my quest to overcome new challenges and continuously learn new technologies 🧠.
 
