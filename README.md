@@ -12,7 +12,7 @@ Looking forward to collaborating, learning, and creating incremental change thro
   <img src="https://img.shields.io/github/followers/kylrw?style=social" alt="followers" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw&no-bg=true&no-frame=true&column=7&exclude=stars&reviews" alt="kylrw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw&no-bg=true&no-frame=true&column=7&exclude=stars&exclude=reviews" alt="kylrw" /></a> </p>
 
 - 🔭 I’m currently working at **McMaster Automotive Resource Center**
 
