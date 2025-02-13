@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Isaac Sim, ROS2, SLAM, and Reinforcement Learning**
 
-- 📫 How to reach me **kkylerwitvoet@gmail.com**
+- 📫 How to reach me **kylerwitvoet@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
