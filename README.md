@@ -7,11 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylrw&no-bg=true&no-frame=true&column=8&exclude=reviews" alt="kylrw" /></a> </p>
 
-- 🔭 I’m currently working at **McMaster Automotive Resource Center**
+- 🌱 I’m currently learning **Isaac Sim, ROS2, SLAM, and Reinforcement Learning**
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
-
-- 📫 How to reach me **kwitvoet03@gmail.com**
+- 📫 How to reach me **kkylerwitvoet@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
