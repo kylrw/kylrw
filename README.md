@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Kyler</h1>
+# Hi, I'm Kyler 👋
 
+I'm a Computer Engineering student at McMaster University, currently interning on the **Tesla Optimus** team working on **classical controls and firmware for humanoid robotics**.  
+My interests span **robotics, control systems, reinforcement learning, and embodied AI**, with a focus on building impactful systems at the intersection of autonomy and real-world applications.
+
+---
+
+### 🌱 Currently Learning
+- Isaac Sim, ROS2, and SLAM
+- Reinforcement Learning for control systems
+- Advanced robotics software and hardware integration
+
+---
+
+### 📫 Get in Touch
+- Email: **kylerwitvoet@gmail.com**  
+- [LinkedIn](https://linkedin.com/in/kyler-witvoet)  
+- [LeetCode](https://www.leetcode.com/witvoetk)  
+- [YouTube](https://www.youtube.com/c/kylerwitvoet6228)  
+
+---
+
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kylrw&label=Profile%20views&color=0e75b6&style=flat" alt="kylrw" />
-  <img src="https://img.shields.io/github/followers/kylrw?style=social" alt="followers" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros" width="70" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </p>
 
-- 🌱 I’m currently learning **Isaac Sim, ROS2, SLAM, and Reinforcement Learning**
+---
 
-- 📫 How to reach me **kylerwitvoet@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
+### 📊 GitHub Stats
 <p align="center">
-
-<a href="https://linkedin.com/in/kyler-witvoet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyler-witvoet" height="30" width="40" /></a>
-<a href="https://instagram.com/kylrw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylrw_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kylerwitvoet6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kylerwitvoet6228" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/witvoetk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="witvoetk" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylrw&theme=default" alt="GitHub streak" />
 </p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&locale=en" alt="kylrw" /></p>
