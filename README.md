@@ -17,7 +17,7 @@ I'm Currently Learning
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -31,7 +31,7 @@ I'm Currently Learning
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=default" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylrw&theme=default" alt="GitHub streak" />
