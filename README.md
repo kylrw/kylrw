@@ -1,18 +1,15 @@
 # Hi, I'm Kyler 👋
 
-I'm a Computer Engineering student at McMaster University, currently interning on the **Tesla Optimus** team working on **classical controls and firmware for humanoid robotics**.  
-My interests span **robotics, control systems, reinforcement learning, and embodied AI**, with a focus on building impactful systems at the intersection of autonomy and real-world applications.
-
----
-
-### 🌱 Currently Learning
+I'm a Computer Engineering student at McMaster University, graduatating in Summer 2026!
+I'm focused on building impactful autonoous systems with real-world applications. My current interests span **robotics, control systems, reinforcement learning, and embodied AI**, 
+I'm Currently Learning
 - Isaac Sim, ROS2, and SLAM
 - Reinforcement Learning for control systems
 - Advanced robotics software and hardware integration
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 - Email: **kylerwitvoet@gmail.com**  
 - [LinkedIn](https://linkedin.com/in/kyler-witvoet)  
 - [LeetCode](https://www.leetcode.com/witvoetk)  
