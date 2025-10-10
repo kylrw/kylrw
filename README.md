@@ -18,7 +18,4 @@
 <a href="https://www.leetcode.com/witvoetk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="witvoetk" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-
-
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&locale=en" alt="kylrw" /></p>
