@@ -1,11 +1,12 @@
 # Hi, I'm Kyler 👋
+I'm a Computer Engineering student at McMaster University, graduating in Summer 2026!
+I'm focused on building impactful autonomous systems with real-world applications. My current interests span robotics, control systems, reinforcement learning, and embodied AI.
 
-I'm a Computer Engineering student at McMaster University, graduatating in Summer 2026!
-I'm focused on building impactful autonoous systems with real-world applications. My current interests span **robotics, control systems, reinforcement learning, and embodied AI**, 
 I'm Currently Learning
-- Isaac Sim, ROS2, and SLAM
-- Reinforcement Learning for control systems
-- Advanced robotics software and hardware integration
+- Reinforcement Learning
+- Isaac Sim
+- Robotics software and hardware integration
+
 
 ---
 
