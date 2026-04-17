@@ -22,5 +22,7 @@ I'm focused on building impactful autonomous systems with real-world application
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylrw&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylrw&theme=default" alt="GitHub streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylrw&theme=default" alt="GitHub streak" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylrw&layout=compact&theme=default" alt="Top languages" />
+
 </p>
